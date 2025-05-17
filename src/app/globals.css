@@ -110,7 +110,9 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px)
+}
 
+@theme { 
   --animate-fade-from-top: fade-from-top 0.5s ease-out;
 
   @keyframes fade-from-top {
