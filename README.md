@@ -8,6 +8,7 @@ This project utilizes the following:
 - React 19 with Typescript
 - Tailwind CSS
 - ESLint
+- ShadCn (UI component library)
 
 Run the development server:
 
